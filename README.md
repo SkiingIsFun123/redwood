@@ -4,7 +4,7 @@
 </p>
 
 _by Tom Preston-Werner, Peter Pistorius, Rob Cameron, David Price, and more than
-250 amazing contributors (see end of file for a full list)._
+250 amazing contributors (see the end of the file for a full list)._
 
 **Redwood is an opinionated, full-stack, JavaScript/TypeScript web application
 framework designed to keep you moving fast as your app grows from side project
@@ -14,7 +14,7 @@ At the highest level, a Redwood app is a React frontend that talks to a custom
 GraphQL API. The API uses Prisma to operate on a database. Out of the box you
 get tightly integrated testing with Jest, logging with Pino, and a UI component
 catalog with Storybook. Setting up authentication (like Auth0) or CSS frameworks
-(like Tailwind CSS) are a single command line invocation away. And to top it
+(like Tailwind CSS) is a single command-line invocation away. And to top it
 off, Redwood's architecture allows you to deploy to either serverless providers
 (e.g. Netlify, Vercel) or traditional server and container providers (e.g. AWS,
 Render) with nearly no code changes between the two!
@@ -22,11 +22,11 @@ Render) with nearly no code changes between the two!
 By making a lot of decisions for you, Redwood lets you get to work on what makes
 your application special, instead of wasting cycles choosing and re-choosing
 various technologies and configurations. Plus, because Redwood is a proper
-framework, you benefit from continued performance and feature upgrades over time
+framework, you benefit from the continued performance and feature upgrades over time
 and with minimum effort.
 
 Redwood is the latest open source project initiated by Tom Preston-Werner,
-cofounder of GitHub (most popular code host on the planet), creator of Jekyll
+cofounder of GitHub (the most popular code host on the planet), creator of Jekyll
 (one of the first and most popular static site generators), creator of Gravatar
 (the most popular avatar service on the planet), author of the Semantic
 Versioning specification (powers the Node packaging ecosystem), and inventor of
@@ -36,7 +36,7 @@ TOML (an obvious, minimal configuration language used by many projects).
 > extensive [Redwood Tutorial](https://redwoodjs.com/docs/tutorial). Have fun!
 
 > **QUICK START:** You can install and run a full-stack Redwood application on
-> your machine with only a couple commands. Check out the [Quick
+> your machine with only a couple of commands. Check out the [Quick
 > Start](https://redwoodjs.com/docs/quick-start) guide to get started.
 
 **EXAMPLES:** If you'd like to see some simple examples of what a Redwood
